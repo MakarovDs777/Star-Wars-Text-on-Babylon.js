@@ -8,8 +8,8 @@
 
 И сделаем процедурно генерируемый текст по мере двжиения камеры вверх вниз.
 
-[Star Wars Text (Version 2 - Procedural Text Generated) | Babylon.js Playground](https://playground.babylonjs.com/#6YT6TB)
+[Star Wars Text (Version 2 - Procedural Text Generated) | Babylon.js Playground](https://playground.babylonjs.com/#6YT6TB#1)
 
 И добавим картинки.
 
-[Star Wars Text (Version 3 - Procedural Generate Text + Images Url's) | Babylon.js Playground](https://playground.babylonjs.com/#Y9AXIH)
+[Star Wars Text (Version 3 - Procedural Generate Text + Images Url's) | Babylon.js Playground](https://playground.babylonjs.com/#Y9AXIH#4)
