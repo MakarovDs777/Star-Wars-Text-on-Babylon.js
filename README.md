@@ -5,3 +5,8 @@
 УБЕРЁМ НАХЕР АНИМАЦИЮ.
 
 [Star Wars Text (Version 1) | Babylon.js Playground](https://playground.babylonjs.com/#QQXWTB#1)
+
+И сделаем процедурно генерируемый текст по мере двжиения камеры вверх вниз.
+
+[Star Wars Text (Version 2 - Procedural Text Generated) | Babylon.js Playground](https://playground.babylonjs.com/#6YT6TB)
+
