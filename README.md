@@ -10,3 +10,6 @@
 
 [Star Wars Text (Version 2 - Procedural Text Generated) | Babylon.js Playground](https://playground.babylonjs.com/#6YT6TB)
 
+И добавим картинки.
+
+[Star Wars Text (Version 3 - Procedural Generate Text + Images Url's) | Babylon.js Playground](https://playground.babylonjs.com/#Y9AXIH)
