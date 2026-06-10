@@ -4,4 +4,4 @@
 
 УБЕРЁМ НАХЕР АНИМАЦИЮ.
 
-[Star Wars Text (Version 1) | Babylon.js Playground](https://playground.babylonjs.com/#QQXWTB)
+[Star Wars Text (Version 1) | Babylon.js Playground](https://playground.babylonjs.com/#QQXWTB#1)
