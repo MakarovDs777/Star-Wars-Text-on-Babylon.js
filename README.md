@@ -12,4 +12,4 @@
 
 И добавим картинки.
 
-[Star Wars Text (Version 3 - Procedural Generate Text + Images Url's) | Babylon.js Playground](https://playground.babylonjs.com/#Y9AXIH#4)
+[Star Wars Text (Version 3 - Procedural Generate Text + Images Url's) | Babylon.js Playground](https://playground.babylonjs.com/#Y9AXIH#7)
