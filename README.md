@@ -13,3 +13,7 @@
 И добавим картинки.
 
 [Star Wars Text (Version 3 - Procedural Generate Text + Images Url's) | Babylon.js Playground](https://playground.babylonjs.com/#Y9AXIH#9)
+
+Теперь сделаем много текстов а не один.
+
+[Star Wars Text (Version 4 - More Texts) | Babylon.js Playground](https://playground.babylonjs.com/#ZNQQ9D)
