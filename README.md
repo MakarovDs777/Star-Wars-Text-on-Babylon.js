@@ -16,4 +16,4 @@
 
 Теперь сделаем много текстов а не один.
 
-[Star Wars Text (Version 4 - More Texts) | Babylon.js Playground](https://playground.babylonjs.com/#ZNQQ9D#1)
+[Star Wars Text (Version 4 - More Texts) | Babylon.js Playground](https://playground.babylonjs.com/#ZNQQ9D#2)
