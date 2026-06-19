@@ -17,3 +17,7 @@
 Теперь сделаем много текстов а не один.
 
 [Star Wars Text (Version 4 - More Texts) | Babylon.js Playground](https://playground.babylonjs.com/#ZNQQ9D#2)
+
+Отлично теперь сделаем такой вариант что-бы я мог выбирать текст за место одного текста.
+
+[Star Wars Text (Version 5 - Choice Texts) | Babylon.js Playground](https://playground.babylonjs.com/#5AK71K)
