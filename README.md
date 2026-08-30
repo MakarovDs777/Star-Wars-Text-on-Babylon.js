@@ -21,3 +21,9 @@
 Отлично теперь сделаем такой вариант что-бы я мог выбирать текст за место одного текста.
 
 [Star Wars Text (Version 5 - Choice Texts) | Babylon.js Playground](https://playground.babylonjs.com/#5AK71K#1)
+
+Отлично! Теперь нужно сделать этот текст в 3D ведь насколько я помню он в 3D был.
+
+[Star Wars Text (Version 6 - 3D Generate Text) | Babylon.js Playground](https://playground.babylonjs.com/#BMOG4G)
+
+Но это недоделанная версия потом её доделаю..
