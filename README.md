@@ -25,3 +25,7 @@
 Отлично! Теперь нужно сделать этот текст в 3D ведь насколько я помню он в 3D был.
 
 [Star Wars Text (Version 6 - 3D Generate Text) | Babylon.js Playground](https://playground.babylonjs.com/#BMOG4G#6)
+
+Добавим URL картинки.
+
+[Star Wars Text (Version 7 - 3D Generate Text + URL images) | Babylon.js Playground](https://playground.babylonjs.com/#PGHI8Q)
